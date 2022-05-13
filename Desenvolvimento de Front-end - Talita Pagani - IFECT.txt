@@ -11,5 +11,5 @@ https://docero.com.br/
 
 
 Parou na 
-Aula 3 O papel do CSS no Front-end
-Capítulo 4 - Folhas de estilo para tipos de mídias
+Aula 5 - Web Performance: Boas Práaticas de Desempenho
+Capítulo 1 - O que é Web Performance?
