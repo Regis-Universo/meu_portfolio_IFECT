@@ -1,0 +1,15 @@
+e-book: Ciência da Computação - Tecnologias Emergentes em Computação - volume 2
+1ª edição - 2021 - Gurujá - SP
+
+e-book: A Web Mobile - Programe para um mundo de muitos dispositivos
+Sérgio Lopes
+
+e-book - Heródoto - volume 1 numero 1 Março de 2016
+
+
+https://docero.com.br/
+
+
+Parou na 
+Aula 3 O papel do CSS no Front-end
+Capítulo 4 - Folhas de estilo para tipos de mídias
